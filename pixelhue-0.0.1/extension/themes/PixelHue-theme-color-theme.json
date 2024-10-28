@@ -2,7 +2,6 @@
 	"name": "pixelhue-theme",
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
-
 	  "colors": {
 		"activityBar.background": "#081C15",
 		"activityBar.border": "#081C1560",
