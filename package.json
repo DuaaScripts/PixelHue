@@ -1,39 +1,39 @@
 {
-  "name": "pixelhue",
-  "displayName": "PixelHue",
-  "description": "PixelHue is a vibrant and modern theme for Visual Studio Code, blending soft tones and rich colors to enhance your coding experience with a touch of pixel art inspiration.",
-  "version": "0.0.1",
-  "publisher": "DuaaBatool",
-  "engines": {
+    "name": "pixelhue",
+    "displayName": "PixelHue",
+    "description": "PixelHue is a vibrant and modern theme for Visual Studio Code...",
+    "version": "0.0.1",
+    "publisher": "DuaaBatool",
+    "engines": {
       "vscode": ">=1.0.0"
-  },
-  "categories": [
+    },
+    "categories": [
       "Themes"
-  ],
-  "contributes": {
+    ],
+    "contributes": {
       "themes": [
-          {
-              "label": "PixelHue",
-              "uiTheme": "vs-dark",
-              "path": "./themes/PixelHue-theme-color-theme.json"
-          }
+        {
+          "label": "PixelHue",
+          "uiTheme": "vs-dark",
+          "path": "./themes/PixelHue-theme-color-theme.json"
+        }
       ]
-  },
-  "keywords": [
+    },
+    "keywords": [
       "theme",
       "color",
       "vibrant",
       "pixelhue",
       "pixel",
       "pixelart"
-  ],
-  "license": "MIT",
-  "repository": {
+    ],
+    "license": "MIT",
+    "repository": {
       "type": "git",
       "url": "https://github.com/DuaaScripts/PixelHue.git"
-  },
-"scripts": {
- 
-}
+    },
+    "icon": "./Screenshots/Screenshots/logo.jpg"
 
-}
+
+  }
+  
