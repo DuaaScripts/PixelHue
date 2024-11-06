@@ -32,7 +32,8 @@
       "type": "git",
       "url": "https://github.com/DuaaScripts/PixelHue.git"
   },
-  "scripts": {
-      "vscode:prepublish": "npm run compile"
-  }
+"scripts": {
+ 
+}
+
 }
