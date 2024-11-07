@@ -39,9 +39,9 @@ After installing, follow these steps:
 
 ## Screenshots 📸
 
-![Screenshot 1](./Screenshots/Screenshot-1.png)
-![Screenshot 2](./Screenshots/Screenshot-2.png)
-![Screenshot 3](./Screenshots/Screenshot-3.png)
+![Screenshot 1](./Screenshots/Screenshots/Screenshot-1.png)
+![Screenshot 2](./Screenshots/Screenshots/Screenshot-2.png)
+![Screenshot 3](./Screenshots/Screenshots/Screenshot-3.png)
 
 ---
 
